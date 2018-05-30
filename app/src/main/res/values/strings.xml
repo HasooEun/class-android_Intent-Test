@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity Call Test</string>
+    <string name="베니스">베니스 사진 보기</string>
+    <string name="세비야">세비야</string>
+    <string name="라싸">라싸</string>
+    <string name="피렌체">피렌체</string>
+    <string name="선택한사진보기">선택한 사진 보기</string>
+    <string name="검색어">검색어를 입력하세요</string>
+    <string name="구글">구글검색</string>
+    <string name="한양대">한양대 홈페이지</string>
+    <string name="닫기">닫기</string>
+</resources>
